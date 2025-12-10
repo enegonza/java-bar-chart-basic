@@ -1,4 +1,9 @@
 Java Bar Chart Basic
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![JFreeChart](https://img.shields.io/badge/JFreeChart-1.5.6-brightgreen)
+![Status](https://img.shields.io/badge/Version-Basic-orange)
+
+
 A foundational Java project demonstrating CSV parsing and bar chart visualization with JFreeChart, built as part of introductory data analysis coursework.
 
 
